@@ -1,0 +1,6 @@
+onnxruntime
+onnxruntime_gpu
+Pillow
+torch
+rembg
+streamlit
